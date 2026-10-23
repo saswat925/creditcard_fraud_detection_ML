@@ -1,0 +1,3 @@
+# Installs the package, its dependencies, and the notebook + dev extras.
+# The dependency list itself lives in pyproject.toml.
+-e .[notebook,dev]
